@@ -1,0 +1,11 @@
+As árvores de decisão são uma técnica de aprendizado de máquina muito utilizada para a construção de modelos preditivos. Elas são especialmente adequadas para a classificação de dados, como é o caso de um modelo que visa prever quais clientes são mais propensos a recomprar nas próximas 2 semanas.
+
+Uma árvore de decisão é um modelo que toma uma série de decisões com base em regras e condições para chegar a uma conclusão final. O modelo é construído a partir de uma série de perguntas que são feitas aos dados de treinamento e, em cada nó da árvore, é decidido qual caminho seguir de acordo com as respostas. No final da árvore, temos uma conclusão ou uma previsão para o dado em questão.
+
+Para o caso da Recompra Bazica que buscava prever quais clientes são mais prováveis de recomprar nas próximas 2 semanas, as árvores de decisão são uma escolha natural. Isso porque elas permitem que o modelo faça uma série de perguntas sobre os dados disponíveis, como o histórico de compras, a localização geográfica, entre outros fatores que podem influenciar na decisão de compra.
+
+Ao usar uma árvore de decisão, é possível visualizar como as diferentes variáveis afetam a probabilidade de recompra do cliente. Isso pode ajudar a identificar padrões e insights que seriam difíceis de detectar de outra forma. Além disso, as árvores de decisão são fáceis de interpretar, permitindo que os usuários entendam facilmente como o modelo chega a suas previsões.
+
+Outra vantagem das árvores de decisão é que elas são relativamente simples de construir e treinar, mesmo com grandes conjuntos de dados. Isso significa que é possível criar modelos precisos sem a necessidade de grande poder computacional ou recursos caros.
+
+Em resumo, as árvores de decisão são uma técnica popular e eficaz para a construção de modelos preditivos, especialmente para a classificação de dados. Para prever quais clientes são mais prováveis de recomprar nas próximas 2 semanas, as árvores de decisão são uma escolha natural, pois permitem que o modelo faça perguntas relevantes sobre os dados e identifique padrões e insights que seriam difíceis de detectar de outra forma.
